@@ -1,0 +1,9 @@
+EXPORTS
+    winusbtmc_deinit@0 @1
+    winusbtmc_find_devnum_by_string@4 @2
+    winusbtmc_get_device_count@0 @3
+    winusbtmc_get_device_string@12 @4
+    winusbtmc_init@0 @5
+    winusbtmc_recv_data@16 @6
+    winusbtmc_recv_string@16 @7
+    winusbtmc_send_string@8 @8
